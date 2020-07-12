@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi 👋 I don’t have a lot of public work here, but check me out elsewhere:
+
+🎨 [michaelkostal.com](http://michaelkostal.com) 
+🎸 [Music](http://music.michaelkostal.com) 
+📓 [Gists](https://gist.github.com/michaelkostal)
+🐦 [twitter](http://twitter.com/michaelkostal)
+📷 [instagram](http://instagram.com/michaelkostal)
 
 <!--
 **michaelkostal/michaelkostal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
