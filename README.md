@@ -1,8 +1,8 @@
 ### Hi 👋 I don’t have a lot of public work here, but check me out elsewhere:
 
 🎨 [michaelkostal.com](http://michaelkostal.com) 
-🎸 [Music](http://music.michaelkostal.com) 
-📓 [Gists](https://gist.github.com/michaelkostal)
+🎸 [bandcamp](http://music.michaelkostal.com) 
+📓 [gists](https://gist.github.com/michaelkostal)
 🐦 [twitter](http://twitter.com/michaelkostal)
 📷 [instagram](http://instagram.com/michaelkostal)
 
