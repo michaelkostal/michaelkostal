@@ -1,4 +1,4 @@
-### Hi 👋 I don’t have a lot of public work here, but check me out elsewhere:
+### Well, hello! I don’t have a lot of public work here, but check me out elsewhere:
 
 🎨 [michaelkostal.com](http://michaelkostal.com) 
 🎸 [bandcamp](http://music.michaelkostal.com) 
