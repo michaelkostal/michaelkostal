@@ -2,9 +2,7 @@
 
 🎨 [michaelkostal.com](http://michaelkostal.com) 
 🎸 [bandcamp](http://music.michaelkostal.com) 
-📓 [gists](https://gist.github.com/michaelkostal)
 🐦 [twitter](http://twitter.com/michaelkostal)
-📷 [instagram](http://instagram.com/michaelkostal)
 
 <!--
 **michaelkostal/michaelkostal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
